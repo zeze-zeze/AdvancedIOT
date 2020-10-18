@@ -3,7 +3,7 @@
 * 姓名: 林哲宇
 
 ## 心得
-這個作業來得快去得也快，deadline 前一天才發現這個作業，趕快花些時間弄完。整體來說就是 Device 透過 Server 戳自己的 Device、Device 戳 Server、Device 透過 Server 戳自己的燈泡。寫 function 的部分多學到了 使用 global variable，就醬。
+這個作業來得快去得也快，deadline 前一天才發現這個作業，趕快花些時間弄完。整體來說就是 Device 透過 Server 戳自己的 Device、Device 戳 Server、Device 透過 Server 戳自己的燈泡。寫 function 的部分多學到了使用 global variable，就醬。
 
 ## 截圖
 1. Project 接線圖與使用 joint function
