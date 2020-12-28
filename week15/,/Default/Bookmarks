@@ -1,0 +1,33 @@
+{
+   "checksum": "bbfe301d8376c7a02c32c9abcbe159af",
+   "roots": {
+      "bookmark_bar": {
+         "children": [  ],
+         "date_added": "13253633525483216",
+         "date_modified": "13253633547556043",
+         "guid": "00000000-0000-4000-a000-000000000002",
+         "id": "1",
+         "name": "書籤列",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13253633525483219",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000003",
+         "id": "2",
+         "name": "其他書籤",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13253633525483220",
+         "date_modified": "0",
+         "guid": "00000000-0000-4000-a000-000000000004",
+         "id": "3",
+         "name": "行動版書籤",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
